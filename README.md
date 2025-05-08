@@ -37,7 +37,7 @@ These projects include terminal-based CRUD systems, simple games, calculators, a
 ### 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
-📧 gabriel@gmail.com
+📧 gabrcarvalho@gmail.com
 
 ---
 
